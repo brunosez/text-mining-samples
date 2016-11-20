@@ -1,6 +1,6 @@
 # text-mining-samples
 
-Deus scripts python développé lors d'une mission pour l'Onisep
+Deux scripts python développés lors d'une mission pour l'Onisep
 
 Algo LDA , découverte de sujet (topic) dans un corpus
 
